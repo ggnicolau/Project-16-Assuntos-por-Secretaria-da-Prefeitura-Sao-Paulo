@@ -15,8 +15,8 @@
 <div align="center">
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=ggnicolau.visitor-badge)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/ggnicolau/Project-7-Hospital-Challenge)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/ggnicolau/Project-7-Hospital-Challenge)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/ggnicolau/Project-16-Assuntos-por-Secretaria-da-Prefeitura-Sao-Paulo)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/ggnicolau/Project-16-Assuntos-por-Secretaria-da-Prefeitura-Sao-Paulo)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/ggnicolau)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/ggnicolau)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/ggnicolau)](https://badges.pufler.dev)
