@@ -137,7 +137,7 @@ Como conclusões gerais analisando todos os gráficos temos:
 * Gráficos Selecionados: https://github.com/ggnicolau/Project-16-Assuntos-por-Secretaria-da-Prefeitura-Sao-Paulo/tree/main/Graphs
 * Tabela em Excel com todas as informações (você mesmo pode fazer suas análises comparativas): https://github.com/ggnicolau/Project-16-Assuntos-por-Secretaria-da-Prefeitura-Sao-Paulo/tree/main/Excel_file
 
-## Technical articles
+## Artigos Técnicos
 * https://arxiv.org/pdf/1907.05545.pdf
 * http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf
 * https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
@@ -150,7 +150,13 @@ Como conclusões gerais analisando todos os gráficos temos:
 * http://ciir.cs.umass.edu/pubfiles/ir-512.pdf
 * https://papers.nips.cc/paper/2009/file/f92586a25bb3145facd64ab20fd554ff-Paper.pdf
 
-## Versioning
+## Outros Repositórios sobre o assunto:
+* https://github.com/ggnicolau/Project-5-NLP-SP-City-Hall
+* https://github.com/ggnicolau/Project-9-NER-SP-City-Hall
+* https://github.com/ggnicolau/Project-2-API_Secretaria-da-Fazenda
+* https://github.com/ggnicolau/Project-10-TuneLDA-SP-City-Hall
+
+## Versionamento
 
 1.0.0.0
 
