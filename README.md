@@ -150,7 +150,7 @@ Como conclusões gerais analisando todos os gráficos temos:
 * http://ciir.cs.umass.edu/pubfiles/ir-512.pdf
 * https://papers.nips.cc/paper/2009/file/f92586a25bb3145facd64ab20fd554ff-Paper.pdf
 
-## Outros Repositórios da Tese de Doutorado:
+## Outros Repositórios da minha Tese de Doutorado:
 * https://github.com/ggnicolau/Project-5-NLP-SP-City-Hall
 * https://github.com/ggnicolau/Project-9-NER-SP-City-Hall
 * https://github.com/ggnicolau/Project-2-API_Secretaria-da-Fazenda
