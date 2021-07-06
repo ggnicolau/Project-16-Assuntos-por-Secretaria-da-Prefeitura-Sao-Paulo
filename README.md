@@ -72,6 +72,8 @@ Nosso trabalho foi uma conclusão de Doutorado de 5 anos. Desses cinco anos, tr�
 
 Junto com colegas de profissão e também dos movimentos sociais, também adaptamos a proposta do Blei para um modelo supervisionado. Ao invés de gerar o modelo de tópicos não-supervisionado, criamos os nossos próprios tópicos sobre determinados assuntos (a partir de agora denominamos esse tipo definição de 'assunto'). Ou seja, um assunto é um conjunto de palavras definido por especialistas. E projetamos esses assuntos no nosso Corpus de Documentos, ou seja, projetamos nossos assuntos nas notícias institucionais oficiais de todas as Secretarias do Município de São Paulo, assim como faríamos com o modelo de tópicos para retornar sentidos e relações sobre o nosso Corpus, reduzindo sua dimensionalidade.
 
+Em etapas anteriores trabalhamos métodos qualitativos (etnografia política e observação participante), métodos quantitativos (estatística exploratória orçamentária e modelos linguísticos não-supervisionados). Nossa intenção era somar os métodos e saltar do indutivo ao dedutivo ('Problema de Platão'), integrando a uma teoria (isso está posto em nossa Tese de Doutorado). Entendemos esse último modelo apresentado aqui, supervisionado por especialistas e com auxílio da máquina, uma análise intersubjetiva feita com olhar especializado, que acrescenta um elemento Reflexivista à nossa análise.
+
 ## Resultados
 Criamos os seguintes assuntos:
 * Armas de Fogo
