@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[[visitors](https://visitor-badge.glitch.me/badge?page_id=ggnicolau.visitor-badge)](https://badges.pufler.dev)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=ggnicolau.visitor-badge)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/ggnicolau/Project-7-Hospital-Challenge)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/ggnicolau/Project-7-Hospital-Challenge)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/ggnicolau)](https://badges.pufler.dev)
@@ -42,6 +42,21 @@
 <div class=''text-justify''>
 
 # Assuntos por Secretarias da Prefeitura de São Paulo
+
+#### Technologies
+* Python version  3.9
+* R
+* Excel
+* MongoDB
+* Git
+
+#### Tools
+* Atom
+* VS Studio
+* Jupyter IPython
+
+#### Services
+* Github
 
 ## Introdução
 Esse projeto é continuação de outros projetos apresentados aqui no GitHub que tratam sobre a Prefeitura de São Paulo.
@@ -74,7 +89,7 @@ Criamos os seguintes assuntos:
 Assim, podemos criar gráficos de análise para verificar a variação no tempo da quantidade de documentos emitidos para cada assunto e também verificar a intersecção entre assuntos variando no tempo. Por intersecção de assuntos entendemos um documento que fala simultaneamente de um assunto e de outro assunto. Gera-se um gráfico como esse:
 
 <div align="center">
-<img src="https://github.com/ggnicolau/Project-16---Assuntos-por-Secretaria-da-Prefeitura-S-o-Paulo/blob/main/Graphs/armas_DH.png">
+<img src="https://github.com/ggnicolau/Project-16-Assuntos-por-Secretaria-da-Prefeitura-Sao-Paulo/blob/main/Graphs/armas_DH.png">
 </div>
 
 Como conclusões gerais analisando todos os gráficos temos:
@@ -112,33 +127,13 @@ Como conclusões gerais analisando todos os gráficos temos:
 * De 2013 ao final de 2018 se falou progressivamente de Trabalho para Pop Rua, chegando a corresponder 20% das vezes que se falou de Trabalho;
 * Enquanto quando que se falou de Viaduto apenas 1% era sobre Pop Rua, entre 90% e 100% das vezes que se falou de Viadutos foi para falar de Segurança;
 
-[<span style="font-size:1.5em;"Clique aqui se quiser ver todos os gráficos gerados. </span>](https://github.com/ggnicolau/Project-7-Hospital-Challenge/blob/main/presentation.md)
-
-#### Technologies
-* Python version  3.9
-* R
-* Excel
-* MongoDB
-* Git
-
-#### Tools
-* Atom
-* VS Studio
-* Jupyter IPython
-
-#### Services
-* Github
-
+[<span style="font-size:1.5em;">Clique aqui se quiser ver todos os gráficos gerados. </span>](https://github.com/ggnicolau/Project-16---Assuntos-por-Secretaria-da-Prefeitura-S-o-Paulo/tree/main/Graphs)
 
 
 ## Arquivos
-* Conclusion Report: https://github.com/ggnicolau/Project-7-Hospital-Challenge/tree/main/conclusion_report
-* Repository: https://github.com/ggnicolau/Albert_Einstein
-* Python Files: https://github.com/ggnicolau/Albert_Einstein/tree/main/py_files
-* Profiling Report:  https://github.com/ggnicolau/Albert_Einstein/tree/main/Profiling_report
-* Pictures: https://github.com/ggnicolau/Albert_Einstein/tree/main/Pictures
-* Pickle Files: https://github.com/ggnicolau/Albert_Einstein/tree/main/Models_backup
 
+* Gráficos Selecionados: https://github.com/ggnicolau/Project-16-Assuntos-por-Secretaria-da-Prefeitura-Sao-Paulo/tree/main/Graphs
+* Tabela em Excel com todas as informações (você mesmo pode fazer suas análises comparativas): https://github.com/ggnicolau/Project-16-Assuntos-por-Secretaria-da-Prefeitura-Sao-Paulo/tree/main/Excel_file
 
 ## Technical articles
 * https://arxiv.org/pdf/1907.05545.pdf
